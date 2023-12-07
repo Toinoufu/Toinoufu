@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Toinoufu and I am currently a student in computer science and this is my personal github account
+where I will show some of my personnal work that isn't related to my school.
+
+ - 🌱 I’m currently learning python in college and c++ and java by myself !
+ - ⚡ Fun fact: I am really shy 
+
 
 <!--
 **Toinoufu/Toinoufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
